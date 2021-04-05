@@ -1,6 +1,6 @@
 ### Hi there, I'm Lars 👋
 
-## I'm an application engineer at [B&R](https://www.br-automation.com/)
+## I'm an application engineer at [B&R](https://www.br-automation.com/), stationed in Munich
 - 🔭 I’m currently working on a personal website!
 - 🌱 I’m currently learning [FastAPI](https://fastapi.tiangolo.com/)
 - 👯 I’m looking to collaborate with other parents for child care 😉
