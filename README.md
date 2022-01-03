@@ -1,6 +1,6 @@
 ### Hi there, I'm Lars 👋
 
-## I'm an application engineer at [B&R](https://www.br-automation.com/), stationed in Munich
+## I'm an application engineer at [KEBA](https://www.keba.com/en/home), stationed in Munich
 - 🔭 I’m currently working on a personal website!
 - 🌱 I’m currently learning [FastAPI](https://fastapi.tiangolo.com/)
 - ⚡ I like programming, reading books and being outside
